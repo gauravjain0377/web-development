@@ -1,0 +1,24 @@
+body {
+    margin-left: 20px;
+}
+
+.chat {
+    background-color: gray;
+    padding: 15px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.message {
+    background-color: aliceblue;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+
+.edit {
+    background-color: whitesmoke
+}
+
+.delete {
+    background-color: whitesmoke
+}
